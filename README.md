@@ -37,6 +37,10 @@ TMDB_API_KEY=your tmdb api
 
 
 
+![image](https://github.com/user-attachments/assets/f876ca73-89f9-41af-8c97-ae6b520ad826)
+
+
+
 open the root directory in the terminal
 
 npm run build
