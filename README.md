@@ -36,3 +36,14 @@ TMDB_API_KEY=your tmdb api
 ![2](https://github.com/user-attachments/assets/95798a56-1647-4483-a4fd-2f2d705b2a37)
 
 
+
+open the root directory
+
+npm run build
+
+npm run start
+
+
+
+
+
