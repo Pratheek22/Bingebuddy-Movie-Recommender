@@ -57,11 +57,8 @@ npm run start
 ---
 
 ## Screenshots
-![Screenshot 1](https://github.com/user-attachments/assets/fc773a2b-3886-46db-b4fe-9c05231b88b9)  
-![Screenshot 2](https://github.com/user-attachments/assets/5aff1edb-df93-42d9-8a79-d83dcfc02d21)  
-![Screenshot 3](https://github.com/user-attachments/assets/36a40866-dd2e-47d8-8441-bbe20686e9c3)  
-![Screenshot 4](https://github.com/user-attachments/assets/89ffe50a-147d-46ee-99dc-7e945e6bcb56)  
-![Screenshot 5](https://github.com/user-attachments/assets/e81fc65d-1f32-41cd-9e19-2fdb0e13971d)  
-![Screenshot 6](https://github.com/user-attachments/assets/95798a56-1647-4483-a4fd-2f2d705b2a37)  
-![Screenshot 7](https://github.com/user-attachments/assets/f876ca73-89f9-41af-8c97-ae6b520ad826)  
-  
+<img width="1920" height="990" alt="screencapture-localhost-5000-signup-2025-09-06-13_08_30" src="https://github.com/user-attachments/assets/fe7a5439-027b-453f-99d0-7374192fdb88" />
+<img width="1920" height="2462" alt="screencapture-localhost-5000-2025-09-06-13_11_48" src="https://github.com/user-attachments/assets/74b3efc2-b6f3-406f-a881-67de18c01875" />
+<img width="1920" height="2342" alt="screencapture-localhost-5000-2025-09-06-13_13_56" src="https://github.com/user-attachments/assets/48f8f386-1b08-471a-b391-09a1678c77c6" />
+<img width="1920" height="2833" alt="screencapture-localhost-5000-watch-278-2025-09-06-13_15_18" src="https://github.com/user-attachments/assets/1d8e6ade-69da-4979-8130-80e9158d5493" />
+
