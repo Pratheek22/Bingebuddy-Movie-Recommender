@@ -64,13 +64,4 @@ npm run start
 ![Screenshot 5](https://github.com/user-attachments/assets/e81fc65d-1f32-41cd-9e19-2fdb0e13971d)  
 ![Screenshot 6](https://github.com/user-attachments/assets/95798a56-1647-4483-a4fd-2f2d705b2a37)  
 ![Screenshot 7](https://github.com/user-attachments/assets/f876ca73-89f9-41af-8c97-ae6b520ad826)  
-
----
-
-## Contributing
-Contributions are welcome! Feel free to fork this repo, open issues, and submit pull requests.  
-
----
-
-## License
-This project is licensed under the MIT License.  
+  
