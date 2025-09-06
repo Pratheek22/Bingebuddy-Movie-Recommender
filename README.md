@@ -7,7 +7,7 @@ BingeBuddy is a MERN stack-based movie recommendation system that helps users di
 ## Features
 - User authentication with JWT  
 - Fetches real-time movie data from TMDB API  
-- Personalized movie recommendations  
+- Browse trending and popular movies 
 - Responsive UI built with React  
 - Backend powered by Node.js, Express, and MongoDB  
 
